@@ -1,5 +1,5 @@
 {
-  "name": "checksum-cmp-cli",
+  "name": "@kszongic/checksum-cmp-cli",
   "version": "1.0.0",
   "description": "Compare two files by checksum (MD5, SHA-1, SHA-256, SHA-512). Zero dependencies.",
   "main": "index.js",
