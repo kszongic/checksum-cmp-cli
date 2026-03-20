@@ -1,0 +1,21 @@
+{
+  "name": "checksum-cmp-cli",
+  "version": "1.0.0",
+  "description": "Compare two files by checksum (MD5, SHA-1, SHA-256, SHA-512). Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "checksum-cmp": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help"
+  },
+  "keywords": ["checksum", "compare", "hash", "md5", "sha256", "sha512", "file", "verify", "cli"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/checksum-cmp-cli"
+  },
+  "homepage": "https://github.com/kszongic/checksum-cmp-cli#readme",
+  "type": "commonjs"
+}
